@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#wrap{
+
+    margin: auto;
+    text-align:center
+}
+#nheader{
+    background-image: url(../images/photos-libre-de-droits.jpg);
+    height: 350px;
+    padding: 30px;
+    ;
+         }
+
+         .navbar{
+             background-color: #EEE;
+             height: 70px;
+
+         }
+         
+ li{
+     display: inline;
+    font-size: xx-large;
+    font-family:  Roboto 
+ }
+   
+ h1{
+     color:red;
+     font-style: italic;
+     font-size: 700%;
+ }
